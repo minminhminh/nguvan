@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="ViCTXuZtAmaGv" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>BINH</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="binh_organization">
+		<organization identifier="binh_organization">
+
+			<title>BINH</title>
+			<item identifier="D0A335A8-8DFE-4A69-814E-4CE9C49CCF46" identifierref="resource">
+				<title>Untitled Quiz</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-0b7ea8b079688aef87a12a5a4bb4528a6e181d2d.mp3"/>
+<file href="res/data/audios/snd-28e0e6f01a97d3503a7a91a036063ecb9fe165bd.mp3"/>
+<file href="res/data/audios/snd-d8fa461535f7cf176466d6128c96cc7024670b7c.mp3"/>
+<file href="res/data/audios/snd-ddad531c14ddbe8fb49cff2bd91bb3596d373781.mp3"/>
+<file href="res/data/audios/snd-f60f23d8d2b409a963c8279fc47556b77e02b505.mp3"/>
+<file href="res/data/audios/snd-f97b2d4fb7628c7f1e78ffb9c6c3549e765151af.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/fonts/fnt5.woff"/>
+<file href="res/data/fonts/fnt6.woff"/>
+<file href="res/data/fonts/fnt7.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/0763-1815-1ac4-697c.png"/>
+<file href="res/data/images/img-00799e4eab7ff565f0ce75cc5ea97d2c47daf8d6.jpg"/>
+<file href="res/data/images/img-015756c99633abb983d92d37e316ed5de3f94f77.gif"/>
+<file href="res/data/images/img-0f1d339cf7045c491ae36c119f33f33eed0464f8.gif"/>
+<file href="res/data/images/img-1ac39c22c30bdb30df50c7d9fc6648f91915753b.png"/>
+<file href="res/data/images/img-24fef0c8fd9fba7dab916472d517686f2dc0a6e2.png"/>
+<file href="res/data/images/img-2a8d78eba2b43a7a161271417104168ef13f3121.bmp"/>
+<file href="res/data/images/img-2b9a820c5f7d2917b48f74e5047ab1a399b9d943.png"/>
+<file href="res/data/images/img-5407e79d77866503ea7899e53db43ee69d36ec3d.png"/>
+<file href="res/data/images/img-69945eb76852241cc32793deaf784361b367dc5c.gif"/>
+<file href="res/data/images/img-855cd217238e0ecb79d1a097cc2d996371d7c45a.png"/>
+<file href="res/data/images/img-89e1ded426b04d06204c2a2ae5dc67e1f1a06e1a.bmp"/>
+<file href="res/data/images/img-8b1e54526373e2654112d471a45a17c70aeec95f.gif"/>
+<file href="res/data/images/img-914f88850006a2306fa97ace9d7d612475a139a1.gif"/>
+<file href="res/data/images/img-a59d98561d6112e160d53c0af6bcf7332d38ff2b.gif"/>
+<file href="res/data/images/img-b57374f71200617d9a4dcbc69ccc430fee9977ab.jpg"/>
+<file href="res/data/images/img-b843531e03fd68173529812d5d48c05c11e89452.png"/>
+<file href="res/data/images/img-baa66a5fe82922e0f437b2936931be1db3736a4d.bmp"/>
+<file href="res/data/images/img-dd279ba2c9b502e1e085f3bda57f8723e89b3a8d.png"/>
+<file href="res/data/images/img-fdcc90462aa272d06cff879188dce3c082595d7d.bmp"/>
+<file href="res/data/images/img-fe1a3a44da2753aa817324eca54d381a47d0d015.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
